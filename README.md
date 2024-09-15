@@ -16,12 +16,19 @@
 
 ## SUA AI OU SUA INTERFACE DE INTERAÇAO COM OS MODELOS (RECOMENDO): https://github.com/AUTOMATIC1111/stable-diffusion-webui
 - LEIA o RADME PARA FAZER A INSTALAÇÃO: https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/master/README.md
+- LISTA de varias AI é seus criadores prompt melhor pior treinamento etc: https://huggingface.co/datasets/thefcraft/civitai-stable-diffusion-337k/viewer?row=93
+
 ## MODELS:
 - Site com modelos de AI para baixar olhar ficar animado e usar muito divertido (faz conta): https://civitai.com/models/486610/artifys-realistic-alien-concept-lora
 - Um bom modelo de ai para 3d personagem: https://civitai.com/models/742211/flux-3d-render-style
 
   
 ## TOOLS
+- Ferramenta para SFW/promps uma ai para gerar prompts é util : https://huggingface.co/spaces/thefcraft/prompt-generator-stable-diffusion
 - Ferramenta que verifica e formata JSON file é mais a frrente vc vai usar: https://odu.github.io/slingjsonlint/
 - O chat GPT é bom usar pois uma ai para te explicar sobra AI faz muito sentido: https://chatgpt.com/
 - Moviemntos como esse: https://www.reddit.com/r/StableDiffusion/comments/12i9qr7/i_transform_real_person_dancing_to_animation/
+- Site para consegur prompts e ideias : https://majinai.art/ja/index.php
+
+## EXEMPLO
+- exemplo de uso de um cara que conheço (IMAGEM +18): https://www.reddit.com/r/XLIKE/hot/
