@@ -1,4 +1,6 @@
 ## Ai_IMAGE_GERATOR_MAKE
+![](screenshot.png)
+
 - Lista de links para rodar o stable difusion uteis 
 - Modelo de ai e uma aula sobre os modelos: https://huggingface.co/WarriorMama777/OrangeMixs#abyssorangemix2-aom2
 - Site para pegar modelos e AI: https://huggingface.co/datasets?format=format:audiofolder&sort=trending
@@ -13,7 +15,7 @@
 
 
 ## SUA AI OU SUA INTERFACE DE INTERAÇAO COM OS MODELOS (RECOMENDO): https://github.com/AUTOMATIC1111/stable-diffusion-webui
-
+- LEIA o RADME PARA FAZER A INSTALAÇÃO: https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/master/README.md
 ## MODELS:
 - Site com modelos de AI para baixar olhar ficar animado e usar muito divertido (faz conta): https://civitai.com/models/486610/artifys-realistic-alien-concept-lora
 - Um bom modelo de ai para 3d personagem: https://civitai.com/models/742211/flux-3d-render-style
