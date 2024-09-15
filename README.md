@@ -20,7 +20,7 @@
 - Site com modelos de AI para baixar olhar ficar animado e usar muito divertido (faz conta): https://civitai.com/models/486610/artifys-realistic-alien-concept-lora
 - Um bom modelo de ai para 3d personagem: https://civitai.com/models/742211/flux-3d-render-style
 
-
+  
 ## TOOLS
 - Ferramenta que verifica e formata JSON file é mais a frrente vc vai usar: https://odu.github.io/slingjsonlint/
 - O chat GPT é bom usar pois uma ai para te explicar sobra AI faz muito sentido: https://chatgpt.com/
