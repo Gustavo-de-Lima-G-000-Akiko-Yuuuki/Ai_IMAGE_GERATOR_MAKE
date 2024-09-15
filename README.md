@@ -24,6 +24,7 @@
 
   
 ## TOOLS
+- UM BOM TUTORIAL DE AI DE VERDADE: https://www.youtube.com/watch?v=kmT-z2lqEPQ
 - Ferramenta para criar prompts e configuracoes nao usei muito ma é boa: https://sd-parseq.web.app/?docId=doc-6d9dd965-1157-4004-8adb-85d2bd87d27c
   
 - Ferramenta para SFW/promps uma ai para gerar prompts é util : https://huggingface.co/spaces/thefcraft/prompt-generator-stable-diffusion
