@@ -24,6 +24,8 @@
 
   
 ## TOOLS
+- Ferramenta para criar prompts e configuracoes nao usei muito ma é boa: https://sd-parseq.web.app/?docId=doc-6d9dd965-1157-4004-8adb-85d2bd87d27c
+  
 - Ferramenta para SFW/promps uma ai para gerar prompts é util : https://huggingface.co/spaces/thefcraft/prompt-generator-stable-diffusion
 - Ferramenta que verifica e formata JSON file é mais a frrente vc vai usar: https://odu.github.io/slingjsonlint/
 - O chat GPT é bom usar pois uma ai para te explicar sobra AI faz muito sentido: https://chatgpt.com/
